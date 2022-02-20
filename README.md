@@ -1,0 +1,2 @@
+# GoogleForm
+This python script enables you to fill any Google form with random responses. Also, for text field like name and email, there are at least two hundred names and emails present in the script to fill the Google form already. (They can be generated from free websites.)  Although, this script is not supporting a multiple choice grid currently, I'm sure that making this script public will invite other people to contribute and enhance it.
