@@ -6,9 +6,13 @@ Connect with me on Linkedin: https://www.linkedin.com/posts/theparin_googleform-
 This python script enables you to fill any Google form with random responses. Also, for text field like name and email, there are at least two hundred names and emails present in the script to fill the Google form already. (They can be generated from free websites.)  Although, this script is not supporting a multiple choice grid currently, I'm sure that making this script public will invite other people to contribute and enhance it.
 Watch the end result here: https://www.facebook.com/TheParin/posts/3040619756216527 
 
-#I kept a Google Colab version here, too: https://colab.research.google.com/drive/173E8Lx0TBe2L8vll_u81ewOwyPgKLk1z?usp=sharing , But, This script is recommended on a local machine
+# I kept a Google Colab version here, too: https://colab.research.google.com/drive/173E8Lx0TBe2L8vll_u81ewOwyPgKLk1z?usp=sharing , But, This script is recommended on a local machine
+
+# The example of the Google Form used is this: https://forms.gle/8o1CBnNZhzgeW4Ry9 .To check the responses when you use this script to fill the said form, Click here to view the spreadsheet consisting the responses you filled with the automation script: https://docs.google.com/spreadsheets/d/1EjhoFJbz4v9jhkf0k5wraL0RbA9RAti4G41sxxAS82w/
+
 
 # Some web resources for the code:
+
 https://medium.com/swlh/automatically-filling-multiple-responses-into-a-google-form-with-selenium-and-python-176340c5220d
 
 https://www.youtube.com/watch?v=kVFcE4M6lw0
@@ -18,7 +22,6 @@ https://www.youtube.com/watch?v=YbGAUEjTKg4
 https://towardsdatascience.com/automating-submission-forms-with-python-94459353b03e
 
 # Notes:
-The example of the Google Form used is this: https://forms.gle/8o1CBnNZhzgeW4Ry9 .
 
 I have used the TEXT-type entries and RADIO button-type entries. For other types, You may require to understand terms place codes accordingly ( e.g. Check boxes, etc. )
 
